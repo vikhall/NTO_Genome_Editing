@@ -49,6 +49,8 @@ def hisat_genotype_analyzer(file, mode, threshold=10, genes='All'):
     Этот модуль анализирует результаты выполнения программы hisat-genotype
     param: file: input file
     param: mode: режим работы (write/plot)
+    param: threshold: abundance threshold
+    param: genes: genes to write of plot
     """
     
     hisat_genotype_df = read_and_filter(file, threshold)
