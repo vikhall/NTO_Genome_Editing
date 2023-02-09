@@ -7,5 +7,5 @@
 Hisat_Genotype_Analyzer_Module.py - модуль, написанный в ходе выполнения задания 1 (Final_Task1_Hisat_Genotype_Analyzer_Reference_Answer.ipynb)
 
 
-biotools - пакет с функциями, которые были написаны в ходе решения задач 2-4 этапа для 8-9, 10-11 классов и студентов (в ноутбуке NTO_Otbor_Tasks.ipynb)
+biotools - пакет с функциями, которые были написаны в ходе решения задач 2-4 этапа для 8-9, 10-11 классов и студентов (в ноутбуке NTO_Otbor_Tasks.ipynb).
 biotools_test.ipynb - ноутбук, в котором тестируется пакет biotools
